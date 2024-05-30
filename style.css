@@ -261,9 +261,9 @@
 #para-content-banner {
     height: 70%;
     width: 600px;
+    font-size: 14px;
     margin-top: 5%;
-    font-size: 30px;
-    font-family: 'Dancing Script', sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: white;
     text-shadow: 2px 3px 4px lightsalmon;
 }
@@ -303,6 +303,9 @@ footer {
 
 /* menu page  */
 
+body{
+    overflow-x: hidden;
+}
 
 .menu {
     background-color: wheat;
